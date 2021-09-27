@@ -41,21 +41,21 @@ Mobile demo:
 
 ## To Run Locally
 
-```bash
-# Clone the project
 
-- git clone https://github.com/andrearnoni/facebook-page-old-version.git
+Clone the project
 
-# Go to the project directory
+`git clone https://github.com/andrearnoni/facebook-page-old-version.git`
 
-- cd facebook-page-old-version
+Go to the project directory
 
-OBS: You do not need to install any dependencies
+`cd facebook-page-old-version`
 
-# Start the server
+- OBS: You do not need to install any dependencies
 
-OBS: Usually I use the Live Server extension for Vs Code, but you can run the way you prefer
-```
+Start the server
+
+- OBS: Usually I use the Live Server extension for Vs Code, but you can run the way you prefer
+
 <br>
 
 ## Authors
