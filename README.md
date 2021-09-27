@@ -10,7 +10,7 @@ This page simulates the login Facebook page old version. Designed in responsive 
 
 ## Demo
 
-To try this project: https://just-for-study.vercel.app/<br>
+Try this project: https://just-for-study.vercel.app/<br>
 
 Desktop demo:
 
