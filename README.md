@@ -8,9 +8,7 @@ This page simulates the login Facebook page old version. Designed in responsive 
 
 ## Demo
 
-<br>
-
-To try this project: https://just-for-study.vercel.app/<br><br>
+To try this project: https://just-for-study.vercel.app/<br>
 
 Desktop demo:
 
@@ -20,15 +18,11 @@ Mobile demo:
 
 <img src="./images/gif-mobile.gif"><br><br>
 
-<br>
-
 ## Used Technologies
 
 * JAVASCRIPT
 * HTML
 * CSS
-
-<br>
 
 ## Features
 
@@ -37,10 +31,7 @@ Mobile demo:
 * Inactive links to change the language and other preferences.
 * Responsive mode
 
-<br>
-
 ## To Run Locally
-
 
 Clone the project
 
@@ -55,8 +46,6 @@ Go to the project directory
 Start the server
 
 - OBS: Usually I use the Live Server extension for Vs Code, but you can run the way you prefer
-
-<br>
 
 ## Authors
 
