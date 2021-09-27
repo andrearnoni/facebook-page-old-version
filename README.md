@@ -55,4 +55,5 @@ Start the server
 
 This project was coded by [@andrearnoni](https://github.com/andrearnoni) and [@alanctnk](https://github.com/alanctnk). It was designed by [@andrearnoni](https://github.com/andrearnoni).
 
+### Go to my [Portfolio!](https://andrearnoni.vercel.app/) 
 ### Connect with me at [LinkedIn!](https://www.linkedin.com/in/andrearnoni/) 
