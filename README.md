@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./images/facebook-logo1.jpg" width="400px"><br><br>
-<p>
+  <img src="./images/facebook-logo1.jpg" width="400px">
+</p>
+
+<br>
 
 <h1 align="center">Facebook Page Old Version</h1>
 
@@ -16,7 +18,11 @@ Desktop demo:
 
 Mobile demo: 
 
-<img src="./images/gif-mobile.gif"><br><br>
+<p align="center">
+  <img src="./images/gif-mobile.gif">
+</p>
+
+<br>
 
 ## Used Technologies
 
