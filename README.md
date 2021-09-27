@@ -2,8 +2,6 @@
   <img src="./images/facebook-logo1.jpg" width="400px">
 </p>
 
-<br>
-
 <h1 align="center">Facebook Page Old Version</h1>
 
 This page simulates the login Facebook page old version. Designed in responsive mode.
